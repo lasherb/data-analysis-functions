@@ -3,7 +3,7 @@
 Python library to analyze and make Barn Owl sound localization data accessible to the public. Functions to easily analyze and search the data from txt files without having prior knowledge of how the data is organized. The functions can create basic tuning curve graphs as well as grab the data from the txt files for further analysis. Must have txt files stored locally on computer for code to work. 
 
 
-The data comes from extracellular recordings of isolated LLDa neurons in four anesthetized adult female barn owls. These recordings were made with tungsten electrodes. The data consist of spike counts in response to sound stimuli with fixed ITD and fixed frequencies for tones. Methods to collect data are described further in the Journal of Neurophysiology, Varability Reduction in Interaural Time Difference Tuning in the Bar Owl by Brian J. Fischer and Masakazu Konishi.
+The data comes from extracellular recordings of isolated LLDa neurons in four anesthetized adult female barn owls. These recordings were made with tungsten electrodes. The data consist of spike counts in response to sound stimuli with fixed ITD and fixed frequencies for tones. Methods to collect data are described further in the Journal of Neurophysiology, Varability Reduction in Interaural Time Difference Tuning in the Barn Owl by Brian J. Fischer and Masakazu Konishi.
 
 
 Dropbox Data Link: https://www.dropbox.com/sh/y3hpo7c86qopg0j/AABKuTlur0AFjrNfs9JfaG7Ea?dl=0

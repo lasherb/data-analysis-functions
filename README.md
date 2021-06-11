@@ -1,4 +1,4 @@
-# Data Analysis Functions
+# Neuarl Data Analysis
 
 Python library to analyze and make Barn Owl sound localization data accessible to the public. Functions to easily analyze and search the data from txt files without having prior knowledge of how the data is organized. The functions can create basic tuning curve graphs as well as grab the data from the txt files for further analysis. Must have txt files stored locally on computer for code to work. 
 

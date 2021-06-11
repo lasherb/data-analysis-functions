@@ -18,8 +18,8 @@ Fischer, B. J., & Konishi, M. (2008). Variability Reduction in Interaural Time D
 
 1. Go to dropbox folder via dropbox link, https://www.dropbox.com/sh/y3hpo7c86qopg0j/AABKuTlur0AFjrNfs9JfaG7Ea?dl=0, to download the data. Store this on a known  location on your computer.
 2. Make sure to download pandas version 1.2.4 or later to ensure the pandas function pandas.DataFrame.to_numpy anf others work properly.
-3. Download both "Tutorial Notebook" and "functions" notebooks.
-4. Set the location variable in the notebook titled "Tutorial Notebook" to the location of where the data is stored on your computer.
+3. Download both "Tutorial-Notebook" and "Analysis-Functions" notebooks.
+4. Set the location variable in the notebook titled "Tutorial-Notebook" to the location of where the data is stored on your computer.
 5. Use the dataframe printed in the Tutorial Notebook to find neurons you might be interested in.
 6. Locate the names of the neurons that you want to do further analysis on. This is found in the "Name" collumn of the dataframe. The name is a string in the format of a three digit owl name, two digit trial number, and the data of the experiment.
 7. Browse the three analysis functions, filename_search, tuningCurveName, and getData. (Documnetation for these functions is found in the Tutorial Notebook.
